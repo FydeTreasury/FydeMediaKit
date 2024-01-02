@@ -1,5 +1,4 @@
-# Fyde Brand Media Kit
-Fyde logos and branding kit for partnerships
+# Fyde Brand Media Kit for social media and partnerships 
 
 Complete brand guidelines can be found here: [Fyde Brand Guidelines](https://drive.google.com/file/d/1Bbq3hgoUnUgw1VIk4fbcM3mqvDx96ygj/view)
 
